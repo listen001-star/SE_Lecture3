@@ -8,7 +8,7 @@ int main() {
     std::cout << "请输入第一个数字: ";
     std::cin >> num1;
 
-    std::cout << "请输入第一个数字: ";
+    std::cout << "请输入第二个数字: ";
     std::cin >> num2;
 
     // 计算和
