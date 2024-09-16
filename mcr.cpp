@@ -12,7 +12,7 @@ int main() {
     std::cin >> num2;
 
     // 计算和
-    sum = num1 + num3;
+    sum = num1 + num2;
 
     // 输出结果
     std::cout << "两个数字的和是: " << sum << std::endl;
