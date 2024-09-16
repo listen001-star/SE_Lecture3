@@ -15,7 +15,7 @@ int main() {
     sum = num1 + num3;
 
     // 输出结果
-    std::cout << "两个数字的和是: " << sum << std::endl;
+    std::cout << "两个数字的和是:  " << sum << std::endl;
 
     return 0;
 }
